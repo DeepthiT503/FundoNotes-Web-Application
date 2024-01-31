@@ -1,0 +1,17 @@
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\bin\Debug\net6.0\RespositoryLayer.deps.json
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\bin\Debug\net6.0\RespositoryLayer.runtimeconfig.json
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\bin\Debug\net6.0\RespositoryLayer.dll
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\bin\Debug\net6.0\RespositoryLayer.pdb
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.csproj.AssemblyReference.cache
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.AssemblyInfoInputs.cache
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.AssemblyInfo.cs
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.csproj.CopyComplete
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.dll
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\obj\Debug\net6.0\refint\RespositoryLayer.dll
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.pdb
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.genruntimeconfig.cache
+C:\Users\deept\source\repos\FundooNotesApp1\RespositoryLayer\obj\Debug\net6.0\ref\RespositoryLayer.dll
